@@ -1,5 +1,4 @@
 # BaggageDrop
-Teja Constantin
 
 	Obiectivul este implementarea în Verilog al unui circuit combinațional care are ca scop simularea
 aruncării automate a unui container cu provizii într-un câmp de luptă de către un elicopter către o echipă
